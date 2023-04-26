@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+h1{
+            text-align: center;
+        }
+       
+       #animal-photos{
+        background-color: gray;
+        display: grid;
+        grid-template-columns: auto auto auto;
+        justify-content: center;
+        gap: 10px 10px;
+       }
+       img{
+        border-radius: 10px;
+         
+       }
